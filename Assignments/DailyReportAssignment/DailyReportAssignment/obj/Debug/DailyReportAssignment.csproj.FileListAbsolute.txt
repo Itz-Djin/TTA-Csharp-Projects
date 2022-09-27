@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
