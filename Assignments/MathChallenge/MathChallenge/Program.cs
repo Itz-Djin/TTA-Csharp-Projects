@@ -47,6 +47,7 @@ namespace MathChallenge
             // performing a math operation on a string
             // a.k.a string concatenation
             // addition is the only operation available to string data types
+            // Concatenated the string "Christdjin " with "Brady"
             Console.WriteLine("Christdjin " + "Brady");
             Console.ReadLine();
 
