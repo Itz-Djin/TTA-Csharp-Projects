@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\bin\Debug\AcmeWelcomeScreen.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AcmeWelcomeScreen\AcmeWelcomeScreen\obj\Debug\AcmeWelcomeScreen.pdb
