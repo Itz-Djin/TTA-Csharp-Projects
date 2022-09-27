@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
