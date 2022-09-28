@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        // Arrays are used when you have a fixed quantity of people, or if you're storing a very large quantity of something
         //List<int> intList = new List<int>();
         //intList.Add(4);
         //intList.Add(10);
