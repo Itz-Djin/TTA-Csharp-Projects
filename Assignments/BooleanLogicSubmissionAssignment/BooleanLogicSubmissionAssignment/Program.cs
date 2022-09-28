@@ -25,7 +25,7 @@ namespace BooleanLogicSubmissionAssignment
             int tickets = Convert.ToInt32(Console.ReadLine());
 
             //Determines if person is qualified, they must meet all 3 given criteria
-            bool qualified = age > 15 && DUI == false && tickets < 3;
+            bool qualified = age > 15 && DUI == false && tickets <= 3;
             Console.WriteLine("Qualified?");
             Console.WriteLine(qualified);
             Console.ReadLine();
