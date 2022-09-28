@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\bin\Debug\StringFuncctions.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\bin\Debug\StringFuncctions.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\bin\Debug\StringFuncctions.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\obj\Debug\StringFuncctions.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\obj\Debug\StringFuncctions.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringFuncctions\StringFuncctions\obj\Debug\StringFuncctions.pdb
