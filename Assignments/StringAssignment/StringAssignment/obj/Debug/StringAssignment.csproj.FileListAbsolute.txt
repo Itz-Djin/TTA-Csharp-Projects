@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
