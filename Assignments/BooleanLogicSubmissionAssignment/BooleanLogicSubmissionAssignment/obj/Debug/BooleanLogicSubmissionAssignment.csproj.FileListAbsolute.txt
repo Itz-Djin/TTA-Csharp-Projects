@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogicSubmissionAssignment\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.pdb
