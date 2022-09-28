@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\bin\Debug\Loops.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\bin\Debug\Loops.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\bin\Debug\Loops.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\obj\Debug\Loops.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Loops\Loops\obj\Debug\Loops.pdb

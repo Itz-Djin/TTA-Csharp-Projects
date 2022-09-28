@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\bin\Debug\ConsoleAppSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConsoleAppSubmissionAssignment\ConsoleAppSubmissionAssignment\obj\Debug\ConsoleAppSubmissionAssignment.pdb
