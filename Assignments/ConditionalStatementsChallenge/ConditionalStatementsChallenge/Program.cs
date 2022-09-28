@@ -29,6 +29,11 @@ namespace ConditionalStatementsChallenge
                 Console.WriteLine("Please provide a numerical value not a string value");
             }
             Console.ReadLine();
+
+            // Practicing ternary operators
+            string result = favNum >= 8 ? "Your favorite number is greater than or equal to 8" : "Your favorite number is less than 8";
+            Console.WriteLine(result);
+            Console.ReadLine();
         }
     }
 }
