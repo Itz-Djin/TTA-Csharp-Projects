@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.pdb
