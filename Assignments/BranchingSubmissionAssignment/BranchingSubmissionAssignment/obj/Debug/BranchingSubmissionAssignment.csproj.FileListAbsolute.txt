@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\BranchingSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\BranchingSubmissionAssignment.pdb
