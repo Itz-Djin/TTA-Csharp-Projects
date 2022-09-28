@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
