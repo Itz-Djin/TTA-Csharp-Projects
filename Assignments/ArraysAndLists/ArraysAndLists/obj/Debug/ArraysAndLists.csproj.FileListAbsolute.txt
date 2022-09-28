@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
