@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\obj\Debug\iterations.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\obj\Debug\iterations.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\bin\Debug\iterations.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\bin\Debug\iterations.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\bin\Debug\iterations.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\obj\Debug\iterations.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\iterations\iterations\obj\Debug\iterations.pdb
