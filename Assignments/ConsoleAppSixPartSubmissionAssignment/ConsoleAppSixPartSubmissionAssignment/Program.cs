@@ -62,26 +62,34 @@ class Program
         
         Console.WriteLine("Please input a company you are searching for.");
         string userSearch = Console.ReadLine();
+        //Converts userSearch to all lowercase
         string userSearchLow = userSearch.ToLower();
+        //Sets index val to 0
         int val = 0;
         bool idk = false;
 
+        //While idk not false (true)
         while(!idk)
         {
+            //sets company variable for each item within companies
             foreach (string company in companies)
             {
+                //if user input matches a company the index of that value is given
                 if (company == userSearchLow)
                 {
                     Console.WriteLine(val);
                     idk = true;
                 }
+                //allows iteration through companies
                 val++;
             }
+            //if companies doesn't have the users search this code block is hit
             if (!companies.Contains(userSearchLow))
             {
                 Console.WriteLine("The company you are searching for doesn't exist. Try Again.");
                 userSearch = Console.ReadLine();
                 userSearchLow = userSearch.ToLower();
+                //resets val to 0
                 val = 0;
             }
 
@@ -93,13 +101,16 @@ class Program
         Console.WriteLine("Please search for a color.");
         string userColor = Console.ReadLine();
 
+        //creates for loop to iterate through colors
         for (int i = 0; i < colors.Count; i++)
         {
+            //if user gives a valid color within colors list, the index is returned
             if (userColor == colors[i])
             {
                 Console.WriteLine(i);
             }
         }
+        //if the user gives an invalid color this block of code is hit
         if (!colors.Contains(userColor))
         {
             Console.WriteLine("Color doesn't exist.");
@@ -110,12 +121,14 @@ class Program
         List<string> tools = new List<string> { "hammer", "screwdriver", "flathead", "drill", "hammer", "compressor", "saw" };
         List<string> dupetools = new List<string>();
 
+        //sets tool variable for each item in tools
         foreach (string tool in tools)
         {
             if (dupetools.Contains(tool))
             {
                 Console.WriteLine(tool + " -is a duplicate.");
             }
+            //
             else
             {
                 Console.WriteLine(tool + " -not a duplicate");
