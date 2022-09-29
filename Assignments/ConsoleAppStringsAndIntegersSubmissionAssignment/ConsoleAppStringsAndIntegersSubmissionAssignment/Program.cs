@@ -9,6 +9,7 @@ class Program
         {
             //list of integers
             List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
+            //List<int> quotients = new List<int>();
 
             Console.WriteLine("Please provide a number.");
             int divisor = Convert.ToInt32(Console.ReadLine());
@@ -18,7 +19,12 @@ class Program
             {
                 int result = number / divisor;
                 Console.WriteLine(result);
+                //quotients.Add(result);
             }
+            //foreach (int quotient in quotients)
+            //{
+            //    Console.WriteLine(quotient);
+            //}
         }
         //if a format errors occurs hit this block of code
         catch (FormatException)
@@ -30,9 +36,10 @@ class Program
         {
             Console.WriteLine("Please don't use zero.");
         }
+        //notifies user has emerged out of the try/catch block and continues with program
         finally
         {
-            Console.WriteLine("You have passed the try/catch block, thank you.");
+            Console.WriteLine("You have passed the try/catch block, continuing program.");
         }
 
         Console.ReadLine();
