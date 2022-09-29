@@ -19,28 +19,28 @@ class Program
         Console.WriteLine(intList[0]);
         Console.ReadLine();
 
-        ////initializes numArray with 5 indices
-        //int[] numArray = new int[5];
-        ////instantiates numArrays indices 0-5 with set values
-        //numArray[0] = 5;
-        //numArray[1] = 2;
-        //numArray[2] = 10;
-        //numArray[3] = 200;
-        //numArray[4] = 5000;
+        //initializes numArray with 5 indices
+        int[] numArray = new int[5];
+        //instantiates numArrays indices 0-5 with set values
+        numArray[0] = 5;
+        numArray[1] = 2;
+        numArray[2] = 10;
+        numArray[3] = 200;
+        numArray[4] = 5000;
 
-        ////exact same thing as numArray but more consolidated
-        //int[] numArray1 = new int[] { 5, 2, 10, 200, 500 };
+        //exact same thing as numArray but more consolidated
+        int[] numArray1 = new int[] { 5, 2, 10, 200, 500 };
 
-        ////Even faster/better way
-        //int[] numArray2 = { 5, 2, 10, 200, 500, 600, 2300 };
+        //Even faster/better way
+        int[] numArray2 = { 5, 2, 10, 200, 500, 600, 2300 };
 
-        ////Changes the value at index 5 of numArray2
-        //numArray2[5] = 650;
+        //Changes the value at index 5 of numArray2
+        numArray2[5] = 650;
 
-        //Console.WriteLine(numArray[3]);
-        //Console.WriteLine(numArray1[3]);
-        //Console.WriteLine(numArray2[5]);
-        //Console.ReadLine();
+        Console.WriteLine(numArray[3]);
+        Console.WriteLine(numArray1[3]);
+        Console.WriteLine(numArray2[5]);
+        Console.ReadLine();
     }
 }
 
