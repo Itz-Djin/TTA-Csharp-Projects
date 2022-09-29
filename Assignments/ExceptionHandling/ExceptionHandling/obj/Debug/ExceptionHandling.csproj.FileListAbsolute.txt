@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
