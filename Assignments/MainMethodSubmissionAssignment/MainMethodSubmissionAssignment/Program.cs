@@ -19,14 +19,12 @@ namespace MainMethodSubmissionAssignment
             //call Addition method of the operations class and number is passed in as the argument
             Console.WriteLine(operations.Addition(number));
 
-            //does the second Additon method (decimal) of the operations class,
-            //converts result to int and assigns to intNum1
-            //int intNum1 = Convert.ToInt32(operations.Addition(num1));
-            //Console.WriteLine(intNum1);
+            //call Addition method of the operations class and a decimal is passed in as the argument
             Console.WriteLine(operations.Addition(num1));
 
+            //call Addition method of the operations class and a string is passed in as the argument
             Console.WriteLine(operations.Addition(str1));
-
+            
 
 
             Console.ReadLine();
