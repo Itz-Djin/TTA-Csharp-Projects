@@ -15,6 +15,8 @@ namespace MethodSubmissionAssignment
             Console.WriteLine("Please provide a number");
             int input1 = Convert.ToInt32(Console.ReadLine());
 
+            //if the user inputs both numbers,
+            //the try works and is performed
             try
             {
                 Console.WriteLine("optional: Provide another number.");
@@ -22,6 +24,8 @@ namespace MethodSubmissionAssignment
 
                 Console.WriteLine(operations.Multiplication(input1, y: input2));
             }
+            //if the user inputs no numbers or a string that isn't an integer,
+            //the catch is performed, which uses the defualt paramter of y in our method
             catch
             {
                 Console.WriteLine(operations.Multiplication(input1));
