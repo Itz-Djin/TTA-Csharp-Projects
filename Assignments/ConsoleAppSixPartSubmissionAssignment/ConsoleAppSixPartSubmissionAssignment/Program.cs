@@ -95,6 +95,7 @@ class Program
 
         }
 
+
         // Console App Part Five Assignment
         List<string> colors = new List<string> { "blue", "green", "yellow", "orange", "silver", "green" };
 

@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\bin\Debug\MainMethodSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\MainMethodSubmissionAssignment\MainMethodSubmissionAssignment\obj\Debug\MainMethodSubmissionAssignment.pdb

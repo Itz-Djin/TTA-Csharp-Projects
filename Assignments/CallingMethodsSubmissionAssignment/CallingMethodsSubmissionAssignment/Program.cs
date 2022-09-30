@@ -11,8 +11,10 @@ namespace CallingMethodsSubmissionAssignment
         static void Main(string[] args)
         {
             Console.WriteLine("What number do you want math operations on?");
+            //converts userInput into int number
             int number = Convert.ToInt32(Console.ReadLine());
 
+            //creates a int variable for our methods, easier to call upon
             int addition = Math.addition(number);
             int subtraction = Math.subtraction(number);
             int multiplication = Math.multiplication(number);
