@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\bin\Debug\CallingMethodsSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\CallingMethodsSubmissionAssignment\CallingMethodsSubmissionAssignment\obj\Debug\CallingMethodsSubmissionAssignment.pdb

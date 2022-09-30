@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
