@@ -6,13 +6,20 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        //any class inheriting this class must implement this method
+        public abstract void Play();
+
+        //a virtual method inside an abstract class means,
+        //this method gets inherited by an inheriting class but,
+        //has the ability to override it
+        //virtual methods opposed to abstract have an implementation, but can be overriden 
+        public virtual void ListPlayers()
         {
             foreach (string player in Players)
             {
