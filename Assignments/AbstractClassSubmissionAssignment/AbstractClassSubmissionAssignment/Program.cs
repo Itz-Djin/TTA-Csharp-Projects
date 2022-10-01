@@ -10,6 +10,13 @@ namespace AbstractClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            Employee emp = new Employee();
+            emp.firstName = "Sample";
+            emp.lastName = "Student";
+
+            //calls method SayName()
+            emp.SayName();
+            Console.ReadLine();
         }
     }
 }

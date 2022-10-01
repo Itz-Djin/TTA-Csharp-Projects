@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\bin\Debug\AbstractClassSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\AbstractClassSubmissionAssignment\AbstractClassSubmissionAssignment\obj\Debug\AbstractClassSubmissionAssignment.pdb
