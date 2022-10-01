@@ -10,10 +10,12 @@ namespace MethodsAndObjectsSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            //instatiates Employee class
             Employee emp = new Employee();
             emp.FirstName = "Sample";
             emp.LastName = "Student";
 
+            //calls method to display First and Last Name
             emp.SayName();
             Console.ReadLine();
         }

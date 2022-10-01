@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodsAndObjectsSubmissionAssignment
 {
+    //inherits from Person class
     class Employee : Person
     {
         public int Id { get; set; }
