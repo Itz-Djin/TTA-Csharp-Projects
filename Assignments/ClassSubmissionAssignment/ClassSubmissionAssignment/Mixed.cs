@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionAssignment
 {
-    class Mixed
+    static class Mixed
     {
+        public static int Addition(int x)
+        {
+            return x + 10;
+        }
     }
 }

@@ -13,7 +13,7 @@ namespace ClassSubmissionAssignment
             //local variable
             int a, b;
 
-            //instatiates Operations class
+            //instantiates Operations class
             Operations op = new Operations();
 
             Console.WriteLine("Please provide a number for an equation with a divisor of 2.");
@@ -27,6 +27,9 @@ namespace ClassSubmissionAssignment
 
             Console.WriteLine("After method call, value of a : {0}", a);
             Console.WriteLine("After method call, value of a : {0}", b);
+
+            //calls Mixed class and its method
+            Console.WriteLine(Mixed.Addition(5));
 
             Console.ReadLine();
         }

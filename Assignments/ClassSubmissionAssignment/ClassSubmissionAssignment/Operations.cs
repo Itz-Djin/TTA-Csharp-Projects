@@ -17,14 +17,26 @@ namespace ClassSubmissionAssignment
             Console.ReadLine();
         }
 
+        //overloading Divide method
+        public void Divide(byte x, byte y)
+        {
+            int result = x + y;
+            Console.WriteLine(result);
+            Console.ReadLine();
+        }
+
+        //method with output parameters
         public void getValues(out int x, out int y)
         {
+            //takes user input and assigns value to x
             Console.WriteLine("Enter the first value: ");
             x = Convert.ToInt32(Console.ReadLine());
 
+            //takes user input and assigns value to y
             Console.WriteLine("Enter the second value: ");
             y = Convert.ToInt32(Console.ReadLine());
         }
+
     }
 
 }
