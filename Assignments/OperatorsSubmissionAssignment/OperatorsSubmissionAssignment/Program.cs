@@ -10,6 +10,13 @@ namespace OperatorsSubmissionAssignment
     {
         static void Main(string[] args)
         {
+            Employee emp1 = new Employee();
+            Employee emp2 = new Employee();
+            emp1.Id = 1;
+            emp2.Id = 2;
+
+            Console.WriteLine(emp1 == emp2);
+            Console.ReadLine();
         }
     }
 }
