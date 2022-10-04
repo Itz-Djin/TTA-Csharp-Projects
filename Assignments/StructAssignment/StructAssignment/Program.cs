@@ -10,6 +10,16 @@ namespace StructAssignment
     {
         static void Main(string[] args)
         {
+            Number num = new Number();
+            num = 1;
+            Console.WriteLine(num);
+            Console.ReadLine();
+
+        }
+        public struct Number
+        {
+            public decimal Amount { get; set; }
+
         }
     }
 }
