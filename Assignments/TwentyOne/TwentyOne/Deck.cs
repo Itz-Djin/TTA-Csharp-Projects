@@ -20,13 +20,13 @@ namespace TwentyOne
 
             foreach (string suit in Suits)
             {
-                foreach (string face in Faces)
-                {
-                    Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);
-                }
+                //foreach (string face in Faces)
+                //{
+                //    Card card = new Card();
+                //    card.Suit = suit;
+                //    card.Face = face;
+                //    Cards.Add(card);
+                //}
             }
         }
         public List<Card> Cards { get; set; }

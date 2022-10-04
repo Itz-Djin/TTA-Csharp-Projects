@@ -10,14 +10,18 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Card card = new Card();
+            card.suit = Suit.Clubs;
+            int underlyingValue = (int)Suit.Diamonds;
+            Console.WriteLine(underlyingValue);
 
             Deck deck = new Deck();
             deck.Shuffle(3);
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
