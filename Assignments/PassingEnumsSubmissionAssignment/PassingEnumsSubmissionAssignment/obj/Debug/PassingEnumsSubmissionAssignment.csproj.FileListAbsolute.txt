@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\bin\Debug\PassingEnumsSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\bin\Debug\PassingEnumsSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\bin\Debug\PassingEnumsSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\obj\Debug\PassingEnumsSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\obj\Debug\PassingEnumsSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\obj\Debug\PassingEnumsSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\PassingEnumsSubmissionAssignment\PassingEnumsSubmissionAssignment\obj\Debug\PassingEnumsSubmissionAssignment.pdb
