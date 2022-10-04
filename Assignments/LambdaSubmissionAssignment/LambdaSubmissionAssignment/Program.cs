@@ -12,8 +12,10 @@ namespace LambdaSubmissionAssignment
         {
             //Employee emp = new Employee();
 
+            //instanties new list object as employees
             List<Employee> employees = new List<Employee>()
             {
+                //creates new employees with their respected Id, FirstName, and LastName
                 new Employee() { Id = 1, FirstName = "Joe", LastName = "Kron" },
                 new Employee() { Id = 2, FirstName = "Joe", LastName = "Smith" },
                 new Employee() { Id = 3, FirstName = "Katt", LastName = "Brady" },
@@ -26,6 +28,7 @@ namespace LambdaSubmissionAssignment
                 new Employee() { Id = 10, FirstName = "Jay", LastName = "Kron" }
             };
 
+            //Creates new list for the Joes wanted
             List<Employee> listOfJoes = new List<Employee>();
 
             //creates employee variable of employees
@@ -39,8 +42,10 @@ namespace LambdaSubmissionAssignment
                 }
 
             }
+            //iterates through list of joes
             foreach (Employee joe in listOfJoes)
             {
+                //writes joes
                 Console.WriteLine(joe.FirstName + " " + joe.LastName);
             }
             Console.ReadLine();
