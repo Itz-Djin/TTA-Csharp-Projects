@@ -10,8 +10,8 @@ namespace TwentyOne
     public class Card
     {   
         //property of data type string called Suit, that you can get or set this property
-        public Suit suit{ get; set; }
-        public string Face { get; set; }
+        public Suit Suit{ get; set; }
+        public Face Face { get; set; }
     }
     public enum Suit
     {
@@ -19,5 +19,21 @@ namespace TwentyOne
         Diamonds,
         Hearts,
         Spades
+    }
+    public enum Face
+    {
+        Two,
+        Three,
+        Four,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
 }
