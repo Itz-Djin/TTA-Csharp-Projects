@@ -12,6 +12,7 @@ namespace OperatorsSubmissionAssignment
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+        //overloaded operator pair to compare employee ids
         public static bool operator== (Employee employee1, Employee employee2)
         {
             return employee1.Id == employee2.Id;
