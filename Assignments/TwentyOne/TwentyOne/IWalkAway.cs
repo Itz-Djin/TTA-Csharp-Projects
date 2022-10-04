@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
+    //Interface naming conventions begin with "I" for "Interface"
+    //everything is public in an interface
     interface IWalkAway
     {
+        void WalkAway(Player player);
     }
 }
