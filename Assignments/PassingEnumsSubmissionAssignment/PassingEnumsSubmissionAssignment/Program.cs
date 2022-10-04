@@ -14,7 +14,7 @@ namespace PassingEnumsSubmissionAssignment
             {
                 Console.WriteLine("Please enter current day of the week.");
                 string entry = Console.ReadLine();
-                //
+                //parses through DaysOfWeek and string entry compares for a match
                 DaysOfWeek day = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), entry);
                 Console.WriteLine(day);
 
