@@ -10,7 +10,7 @@ namespace TwentyOne
     {
         public List<Player> Players { get; set; }
         public string Name { get; set; }
-        public string Dealer { get; set; }
+        public Dictionary<Player, int> Bets { get; set; }
 
         //any class inheriting this class must implement this method
         public abstract void Play();
