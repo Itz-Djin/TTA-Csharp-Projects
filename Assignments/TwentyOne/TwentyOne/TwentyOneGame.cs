@@ -30,6 +30,7 @@ namespace TwentyOne
             //each deck would become a partial deck and,
             //have influence on the next deck.
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
 
             //Loops through each player to place their bets
@@ -84,6 +85,7 @@ namespace TwentyOne
                             //assigns all values from players to the dealer
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -121,6 +123,12 @@ namespace TwentyOne
                         if (answer == "yes" || answer == "yeah")
                         {
                             player.isActivelyPlaying = true;
+                            return;
+                        }
+                        else
+                        {
+                            player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
