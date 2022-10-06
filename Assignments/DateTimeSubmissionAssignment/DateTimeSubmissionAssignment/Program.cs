@@ -13,6 +13,10 @@ namespace DateTimeSubmissionAssignment
             DateTime now = DateTime.Now;
 
             Console.WriteLine(now.ToString("hh:mm tt"));
+            Console.WriteLine("Please enter a number.");
+            Double x = Convert.ToDouble(Console.ReadLine());
+            DateTime later = DateTime.Now.AddHours(x);
+            Console.WriteLine(later.ToString("hh:mm tt"));
             Console.ReadLine();
         }
     }
