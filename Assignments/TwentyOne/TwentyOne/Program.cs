@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Casino;
 using Casino.TwentyOne;
 
@@ -8,7 +9,8 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Player newPlayer = new Player("Jin");
+
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -21,7 +23,11 @@ namespace TwentyOne
                 //and how much money they braught.
                 //takes in variables from user: playerName and bank
                 Player player = new Player(playerName, bank);
-
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 //creates new game, polymorphism is occuring
                 //exposes overloaded operators
                 Game game = new TwentyOneGame();
