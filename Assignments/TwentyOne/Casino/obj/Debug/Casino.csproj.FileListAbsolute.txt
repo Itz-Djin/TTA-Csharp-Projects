@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\bin\Debug\Casino.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\bin\Debug\Casino.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\Casino.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\Casino.pdb
