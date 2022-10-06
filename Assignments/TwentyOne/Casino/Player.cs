@@ -8,6 +8,11 @@ namespace Casino
 {
     public class Player
     {
+        //assign name to name and defaults a value of 100 if no value is given
+        public Player(string name) : this(name, 100)
+        {
+
+        }
         //Constructor with two parameters, 1 of data type string and other integer
         public Player(string name, int beginningBalance)
         {
