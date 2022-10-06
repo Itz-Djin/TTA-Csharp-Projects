@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,6 +11,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
@@ -18,7 +20,7 @@ namespace TwentyOne
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
-                //create new player object, initialized with his name,
+                //create new player object, initialized with their name,
                 //and how much money they braught.
                 //takes in variables from user: playerName and bank
                 Player player = new Player(playerName, bank);

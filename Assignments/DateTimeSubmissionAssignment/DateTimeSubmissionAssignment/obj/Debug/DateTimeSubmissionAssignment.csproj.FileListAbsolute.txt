@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.pdb
