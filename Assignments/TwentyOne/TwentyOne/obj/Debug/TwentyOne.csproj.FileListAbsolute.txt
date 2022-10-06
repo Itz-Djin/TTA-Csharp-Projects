@@ -5,3 +5,6 @@ F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debu
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

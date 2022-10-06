@@ -3,3 +3,8 @@ F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\n
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
 F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TwentyOne\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
