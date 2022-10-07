@@ -14,6 +14,11 @@ namespace ConstructorSubmissionAssignment
             const string slcVinylCo = "SLCVinylCo";
             //using var to create a variable, var implicitly detects what the value is
             var x = 369;
+
+            //instantiating constructor
+            People person = new People("Jin", 24);
+            Console.WriteLine(person.name + " " +person.age);
+            Console.ReadLine();
         }
         //creating new class
         public class People

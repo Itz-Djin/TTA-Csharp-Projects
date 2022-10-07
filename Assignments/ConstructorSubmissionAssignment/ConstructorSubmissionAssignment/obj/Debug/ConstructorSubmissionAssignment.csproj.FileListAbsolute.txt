@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.pdb
