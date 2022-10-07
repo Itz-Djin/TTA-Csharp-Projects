@@ -15,9 +15,10 @@ namespace ConstructorSubmissionAssignment
             //using var to create a variable, var implicitly detects what the value is
             var x = 369;
 
-            //instantiating constructor
+            //person1 uses overloaded constructor with defualt parameter for age
             People person1 = new People("Jay");
 
+            //person2 uses original constructor with two parameters
             People person2 = new People("Joe", 20);
             Console.WriteLine("{0} is {1} years old, while {2} is {3} years old.", person1.name, person1.age, person2.name, person2.age);
             Console.ReadLine();
