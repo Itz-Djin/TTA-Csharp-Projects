@@ -16,8 +16,10 @@ namespace ConstructorSubmissionAssignment
             var x = 369;
 
             //instantiating constructor
-            People person = new People("Jin", 24);
-            Console.WriteLine(person.name + " " +person.age);
+            People person1 = new People("Jay");
+
+            People person2 = new People("Joe", 20);
+            Console.WriteLine("{0} is {1} years old, while {2} is {3} years old.", person1.name, person1.age, person2.name, person2.age);
             Console.ReadLine();
         }
         //creating new class
