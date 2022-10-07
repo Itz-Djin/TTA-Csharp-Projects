@@ -44,6 +44,10 @@ namespace Casino.TwentyOne
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");
                 }
+                if (bet < 0)
+                {
+                    throw new FraudException();
+                }
                 //create succesfullyBet, calling Bet method on player, passing in bet (players bet)
                 bool successfullyBet = player.Bet(bet);
                 //!successfullyBet means succesfullyBet == false;

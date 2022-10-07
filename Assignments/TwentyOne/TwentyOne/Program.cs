@@ -50,7 +50,22 @@ namespace TwentyOne
                 //players balance must be greater than 0 or else player can't play.
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)
+                    {
+                        Console.WriteLine("Security! Kick this person out.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 //subtracts player from game
                 game -= player;

@@ -1,0 +1,6 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
