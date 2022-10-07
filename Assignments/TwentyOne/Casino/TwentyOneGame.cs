@@ -32,12 +32,18 @@ namespace Casino.TwentyOne
             //have influence on the next deck.
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("Place your bet!");
 
             //Loops through each player to place their bets
             foreach(Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet!");
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                    if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");
+                }
                 //create succesfullyBet, calling Bet method on player, passing in bet (players bet)
                 bool successfullyBet = player.Bet(bet);
                 //!successfullyBet means succesfullyBet == false;

@@ -9,12 +9,20 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-
-
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+
+            bool validAnswer = false;
+            int bank = 0;
+            //while not false
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                //if validAnswer false still (not true) tells user why they keep getting error
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+            }
+
             Console.WriteLine("Hello, {0}. Would you like ot join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
