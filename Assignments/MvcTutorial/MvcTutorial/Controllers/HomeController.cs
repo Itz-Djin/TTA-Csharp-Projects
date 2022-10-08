@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MvcTutorial.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,7 +11,12 @@ namespace MvcTutorial.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            User user = new User();
+            user.Id = 1;
+            user.FirstName = "Jin";
+            user.LastName = "Br";
+            user.Age = 24;
+            return View(user);
         }
 
         public ActionResult About()
