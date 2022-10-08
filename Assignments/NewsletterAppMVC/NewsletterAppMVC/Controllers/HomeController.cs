@@ -24,9 +24,7 @@ namespace NewsletterAppMVC.Controllers
             }
             else
             {
-                string connectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=Newsletter;Integrated
-                                            Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;
-                                            ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+                string connectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
                 string queryString = @"INSERT INTO SignUps (FirstName, LastName, EmailAddress) VALUES
                                         (@FirstName, @LastName, @EmailAddress)";
@@ -37,7 +35,7 @@ namespace NewsletterAppMVC.Controllers
                 {
                     SqlCommand command = new SqlCommand(queryString, connection);
                     command.Parameters.Add("@FirstName", SqlDbType.VarChar);
-                    command.Parameters.Add("@LirstName", SqlDbType.VarChar);
+                    command.Parameters.Add("@LastName", SqlDbType.VarChar);
                     command.Parameters.Add("@EmailAddress", SqlDbType.VarChar);
 
                     command.Parameters["@FirstName"].Value = firstName;
