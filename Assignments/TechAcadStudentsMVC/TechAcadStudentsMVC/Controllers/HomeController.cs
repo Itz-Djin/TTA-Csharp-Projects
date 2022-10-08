@@ -22,9 +22,21 @@ namespace TechAcadStudentsMVC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contact Page - The Tech Academy";
 
             return View();
         }
+
+        public ActionResult Instructor(int id)
+        {
+            ViewBag.Id = id;
+            return View();
+        }
+
+        public ActionResult Instructors()
+        {
+            return View();
+        }
+
     }
 }
