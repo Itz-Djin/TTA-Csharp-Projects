@@ -17,12 +17,14 @@ namespace MvcTutorial.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
+            throw new Exception("Invalid page");
+
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Contact(int id=0)
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = id;
 
             return View();
         }
