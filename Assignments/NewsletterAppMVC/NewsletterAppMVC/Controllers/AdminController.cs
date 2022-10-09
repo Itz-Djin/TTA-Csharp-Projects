@@ -17,7 +17,11 @@ namespace NewsletterAppMVC.Controllers
             using (NewsletterEntities db = new NewsletterEntities())
             {
                 //SignUps represents all records in database, instantiates it as signups
-                var signups = db.SignUps;
+                //var signups = db.SignUps.Where(x => x.Removed == null).ToList();
+                //using linq for the same function as line 20
+                var signups = (from c in db.SignUps
+                               where c.Removed == null
+                               select c).ToList();
                 //creates list of View Models
                 var signupVms = new List<SignupVm>();
                 //loops through Vm's and map them to a view model
@@ -57,6 +61,20 @@ namespace NewsletterAppMVC.Controllers
             //        signups.Add(signup);
             //    }
             //}
+        }
+
+        public ActionResult Unsubscribe(int Id)
+        {
+            using (NewsletterEntities db = new NewsletterEntities())
+            {
+                //finds record we want with the primary key "id"
+                var signup = db.SignUps.Find(Id);
+                //changes the removed property in record
+                signup.Removed = DateTime.Now;
+                //updates to actual db
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
         }
     }
 }
