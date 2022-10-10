@@ -1,0 +1,14 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
