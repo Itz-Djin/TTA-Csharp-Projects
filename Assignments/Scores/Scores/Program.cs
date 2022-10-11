@@ -14,7 +14,7 @@ namespace Scores
 
             //path to file containing scores
             string path = @"F:\The Tech Academy\TTA-Csharp-Projects\Assignments\Scores\Scores\studentScores.txt";
-            //creates array storing data from txt file as lines 
+            //creates array storing data from txt file as lines (data type: string)
             string[] lines = System.IO.File.ReadAllLines(path);
 
             //setting variable of total score to 0.0
