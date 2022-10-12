@@ -15,46 +15,78 @@ namespace CarInsurance.Controllers
         private InsuranceEntities db = new InsuranceEntities();
 
         //Give quote
-        public ActionResult Quote()
+        public ActionResult Quote(int id)
         {
+            //instantiating Insuree class as insuree
+            var insuree = db.Insurees.Find(id);
             //instantiating now as current year
             int now = DateTime.Now.Year;
-            //instantiating Insuree class as insuree
-            var insuree = new Insuree();
+            //instantiating db columns
             //getting insuree Year of Birth (YOB) converting it to an int data type 
             int YOB = Convert.ToInt32(insuree.DateOfBirth.Year);
             int insureeAge = now - YOB;
             int insureeCarYear = insuree.CarYear;
-            string insureeCarMake = insuree.CarMake;
-            string insureeCarModel = insuree.CarModel;
+            string insureeCarMake = insuree.CarMake.ToLower();
+            string insureeCarModel = insuree.CarModel.ToLower();
             int insureeTicket = Convert.ToInt32(insuree.SpeedingTickets);
             bool insureeDUI = insuree.DUI;
-            bool fullCoverage = false;
+            bool fullCoverage = insuree.CoverageType;
             decimal baseQuote = 50.00m;
 
-            //could I make a method of addToBase and pass in an argument of the amount that it will increase by
+            //if statements that add to the baseQuote
+            //Age
             if (insureeAge <= 18)
             {
-                decimal addToBase = baseQuote + 100.00m;
+                baseQuote += 100.00m;
             }
             else if (insureeAge >= 19 && insureeAge <= 25)
             {
-                decimal addToBase = baseQuote + 50.00m;
+                baseQuote += 50.00m;
             }
+            //26 and above
             else
             {
-                decimal addToBase = baseQuote + 25.00m;
+                baseQuote += 25.00m;
             }
 
+            //Car Year, excluding anything between 2000 and 2015
             if (insureeCarYear < 2000 || insureeCarYear > 2015)
             {
-                decimal addToBase = baseQuote + 25.00m;
+                baseQuote += 25.00m;
             }
             
-            if (insureeCarMake == "Porsche")
+            //Insuree Car Make and Model
+            if (insureeCarMake == "porsche")
             {
-                decimal addToBase = baseQuote + 25.00m;
+                baseQuote += 25.00m;
+                if (insureeCarModel == "911 carrera")
+                {
+                    baseQuote += 25.00m;
+                }
             }
+
+            //Insuree Tickets
+            if (insureeTicket > 0)
+            {
+                baseQuote += insureeTicket * 10.00m;
+            }
+
+            //Insuree DUI
+            if (insureeDUI)
+            {
+                baseQuote += baseQuote * .25m;
+            }
+
+            //insuree Coverage
+            if (fullCoverage)
+            {
+                baseQuote += baseQuote * .5m; 
+            }
+
+            insuree.Quote = baseQuote;
+            db.SaveChanges();
+
+            return RedirectToAction("Index");
         }
 
         // GET: Insuree
@@ -95,6 +127,7 @@ namespace CarInsurance.Controllers
             {
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
+                Quote(insuree.Id);
                 return RedirectToAction("Index");
             }
 
@@ -165,6 +198,12 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        // GET: Insuree/Admin
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
         }
     }
 }
