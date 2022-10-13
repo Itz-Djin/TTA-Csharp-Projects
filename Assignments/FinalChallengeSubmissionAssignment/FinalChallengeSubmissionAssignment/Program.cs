@@ -14,7 +14,7 @@ namespace FinalChallengeSubmissionAssignment
 
             using (var ctx = new SchoolContext())
             {
-                var stud = new Student() { StudentName = "Bill" };
+                var stud = new Student() { StudentName = "Dalton" };
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
