@@ -1,0 +1,7 @@
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\ChallengeSubmissionAssignmentFinal.exe
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\ChallengeSubmissionAssignmentFinal.dll
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\ChallengeSubmissionAssignmentFinal.deps.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\ChallengeSubmissionAssignmentFinal.runtimeconfig.json
+F:\The Tech Academy\TTA-Csharp-Projects\Assignments\ChallengeSubmissionAssignmentFinal\ChallengeSubmissionAssignmentFinal\obj\Release\net6.0\PubTmp\Out\ChallengeSubmissionAssignmentFinal.pdb
