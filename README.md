@@ -1,2 +1,7 @@
 # TTA-Csharp-Projects
-Repository containing practices, assignments and projects done in C# for The Tech Academy
+These are some small projects I made using C# and .NET Framework
+##Projects:
+-[]Car Insurance
+-[]Newsletter
+###Car Insurance
+###Newsletter
